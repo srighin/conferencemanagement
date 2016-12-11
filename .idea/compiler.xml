@@ -22,14 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="conference" />
         <module name="conferenceManager" />
       </profile>
+      <profile default="false" name="Annotation profile for conference" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="conference" />
+      </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="conference" target="1.5" />
-      <module name="conferenceManager" target="1.5" />
-      <module name="confManager" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="conference" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

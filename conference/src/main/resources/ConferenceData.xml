@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<topics>
+	<topic>
+		<name>Writing Fast Tests Against Enterprise Rails</name>
+		<time>60</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Overdoing it in Python</name>
+		<time>45</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Lua for the Masses</name>
+		<time>30</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Ruby Errors from Mismatched Gem Versions</name>
+		<time>45</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Common Ruby Errors</name>
+		<time>45</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Rails for Python Developers</name>
+		<time/>
+		<unit>lightning</unit>
+	</topic>
+	<topic>
+		<name>Communicating Over Distance</name>
+		<time>60</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Accounting-Driven Development</name>
+		<time>45</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Woah</name>
+		<time>30</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Sit Down and Write</name>
+		<time>30</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Pair Programming vs Noise</name>
+		<time>45</time>
+		<unit>min</unit>
+	</topic>
+	
+	
+	<topic>
+		<name>Rails Magic</name>
+		<time>60</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Ruby on Rails: Why We Should Move On</name>
+		<time>60</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Clojure Ate Scala (on my project)</name>
+		<time>45</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Programming in the Boondocks of Seattle</name>
+		<time>30</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Ruby vs. Clojure for Back-End Development</name>
+		<time>30</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>Ruby on Rails Legacy App Maintenance</name>
+		<time>60</time>
+		<unit>min</unit>
+	</topic>
+	
+	<topic>
+		<name>A World Without HackerNews</name>
+		<time>30</time>
+		<unit>min</unit>
+	</topic>
+	<topic>
+		<name>User Interface CSS in Rails Apps</name>
+		<time>30</time>
+		<unit>min</unit>
+	</topic>
+</topics>

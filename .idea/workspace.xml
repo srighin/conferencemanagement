@@ -24,42 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd1ee0a6-abe7-4a6a-8179-9f7c58a018c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/conference_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/conference_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/ConferenceSchedulerMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/conference/Conference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/config/ConfigConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/config/Constant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/event/Event.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/exception/ConferenceManagementBusinessException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/exception/ConferenceManagementSystemException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/facade/ConferenceSchedulerFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/fileReader/FileReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/fileReader/TextFileReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/fileReader/XmlFileReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/scheduler/ConferenceScheduler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/scheduler/FileConferenceConferenceScheduler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/scheduler/JSONConferenceConferenceScheduler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/scheduler/XMLConferenceConferenceScheduler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/slot/Slot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/track/Track.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/util/ConferenceLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/util/ScheduleTemplate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/util/SchedulerImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/resources/ConferenceData.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/resources/ConferenceData.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/resources/ConferenceDataNoData.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/src/main/resources/event-config.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/confManager/confManager.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/confManager/pom.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/conferenceManager/conferenceManager.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/conference.iml" afterPath="$PROJECT_DIR$/conference/conference.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/pom.xml" afterPath="$PROJECT_DIR$/conference/pom.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,8 +75,8 @@
       <file leaf-file-name="Track.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/track/Track.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.583851">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6335404">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -990,7 +956,7 @@
       <option name="number" value="Default" />
       <updated>1481431182504</updated>
       <workItem from="1481431184062" duration="3928000" />
-      <workItem from="1481438017748" duration="3407000" />
+      <workItem from="1481438017748" duration="3502000" />
     </task>
     <task id="LOCAL-00001" summary="First Time commit">
       <created>1481434193998</created>
@@ -998,11 +964,23 @@
       <option name="project" value="LOCAL" />
       <updated>1481434193998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding code">
+      <created>1481441460266</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1481441460266</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding code">
+      <created>1481441514920</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481441514920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7335000" />
+    <option name="totallyTimeSpent" value="7430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="860" extended-state="0" />
@@ -1041,7 +1019,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Time commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Time commit" />
+    <MESSAGE value="Adding code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1095,6 +1074,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="9.423077">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,6 +1089,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9230769">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1354,8 +1335,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conference/src/main/java/com/projects/scheduler/conferencescheduler/track/Track.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.583851">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6335404">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>

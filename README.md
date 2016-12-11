@@ -1,0 +1,2 @@
+# conferencemanagement
+Conference management scheduler
